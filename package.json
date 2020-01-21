@@ -1,6 +1,6 @@
 {
   "name": "fullcalendar-reactwrapper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A React Calendar with events",
   "main": "lib/index.js",
   "scripts": {
